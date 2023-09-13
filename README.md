@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm stgiga, and I've been involved in technology for many years.
 
-- 🔭 I’m currently working on various projects, though the most current thing I'm working on is UnifontEX, (at least until September 12th, 2023.)
+- 🔭 I’m currently working on various projects, though the most current thing I'm working on is UnifontEX, (at least until September 12th, 2023.) After that, I will be doing some creative writing.
 - 🌱 I’m currently learning Java properly.
 - 👯 I’m looking to collaborate on extending the SoundFont format.
 - 🤔 I’m looking for help with keeping my code running long-term.
