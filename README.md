@@ -28,3 +28,15 @@ I'm stgiga, and I've been involved in technology for many years.
 - ⚡ Fun fact: I'm intersex, nonbinary, and a salmacian/aphrodisian as well. Also, .B3K files (BWTC32Key's format) have the honor of NOT being binary files.
 
 - [![stgiga's GitHub stats](https://github-readme-stats.vercel.app/api?username=stgiga)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/stgiga/count.svg" />
+</p>
+
+# My GitHub contributions as a Game of Life
+
+[![GitHub Game of Life](https://github4life.herokuapp.com/stgiga.gif?z=6)](https://github4life.herokuapp.com/stgiga)
+
+(Be sure to click on it for the infinite-scrolling version.)
+
