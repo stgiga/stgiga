@@ -40,5 +40,3 @@ I'm stgiga, and I've been involved in technology for many years.
 
 (Be sure to click on it for the infinite-scrolling version.)
 
-<img align="center" width="800" height="600" src="https://stgiga.sourceforge.io/nanoscopic.svgz" />
-
