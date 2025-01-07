@@ -40,3 +40,5 @@ I'm stgiga, and I've been involved in technology for many years.
 
 (Be sure to click on it for the infinite-scrolling version.)
 
+Honestly these days I've been a bit frantic.
+
