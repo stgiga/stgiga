@@ -31,7 +31,7 @@ I'm stgiga, and I've been involved in technology for many years.
   
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/stgiga/count.svg" />
+  <img src="https://profile-counter.deno.dev/stgiga/count.svg" />
 </p>
 
 # My GitHub contributions as a Game of Life
