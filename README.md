@@ -44,7 +44,7 @@ I'm stgiga, and I've been involved in technology for many years.
 > [![My X-Face+Face Headers](https://stgiga.github.io/LushFace.gif)](https://stgiga.github.io/X-FacePlusFaceAllHeadersPlus24bitFixOGproperPeace.txt)
 
 Honestly these days I've been a bit frantic. I often am. 
-
+<!--
  # **Also I'm a VTuber!**
 [![My VTuber model](https://stgiga.github.io/gigaware/sgVRisoLite.png)](https://inkbunny.net/s/3772618)
-
+-->
