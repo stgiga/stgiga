@@ -46,7 +46,7 @@ I'm stgiga, and I've been involved in technology for many years.
 (Be sure to click on it for the infinite-scrolling version.)
 
 ### My X-Face+Face:
-> [![My X-Face+Face Headers](https://stgiga.github.io/LushFace.gif)](https://stgiga.github.io/X-FacePlusFaceAllHeadersPlus24bitFixOGproperPeace.txt)
+> [![My X-Face+Face Headers](https://stgiga.github.io/LushFace.gif)](https://stgiga.github.io/X-FacePlusFaceAllHeadersPlus24bitFixOGproperPeaceFM.txt)
 
 Honestly these days I've been a bit frantic. I often am. 
 <!--
