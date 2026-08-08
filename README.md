@@ -34,7 +34,7 @@ I'm stgiga, and I've been involved in technology for many years.
   ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 <!--![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)-->
-<p align="center"> 
+<p align="left"> 
   Visitor count:<br>
 </p>
 
