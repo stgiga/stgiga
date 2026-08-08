@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v6
 
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2.02
         with:
           card: stats
           options: username=${{ github.repository_owner }}&theme=merko&include_all_commits=true&number_format=long&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
@@ -24,7 +24,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2.02
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&theme=merko&include_all_commits=true&&size_weight=0.5&count_weight=0.5&langs_count=20&number_format=long&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
