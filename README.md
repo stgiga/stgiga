@@ -36,7 +36,7 @@ I'm stgiga, and I've been involved in technology for many years.
 <!--![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)-->
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.deno.dev/stgiga/count.svg" />
+  ![](https://komarev.com/ghpvc/?username=stgiga)
 </p>
 
 # My GitHub contributions as a Game of Life
