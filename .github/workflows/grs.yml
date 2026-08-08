@@ -27,7 +27,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2.0.2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&theme=merko&include_all_commits=true&size_weight=0.5&count_weight=0.5&langs_count=20&number_format=long&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
+          options: username=${{ github.repository_owner }}&theme=merko&layout=donut&include_all_commits=true&size_weight=0.5&count_weight=0.5&langs_count=20&number_format=long&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
