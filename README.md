@@ -36,9 +36,9 @@ I'm stgiga, and I've been involved in technology for many years.
 <!--![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)-->
 <p align="center"> 
   Visitor count<br>
-  ![](https://komarev.com/ghpvc/?username=stgiga)
-</p>
 
+</p>
+  ![](https://komarev.com/ghpvc/?username=stgiga)
 # My GitHub contributions as a Game of Life
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/stgiga.gif?z=6)](https://github4life.herokuapp.com/stgiga)
