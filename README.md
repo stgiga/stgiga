@@ -54,3 +54,5 @@ Honestly these days I've been a bit frantic. I often am.
  # **Also I'm a VTuber!**
 [![My VTuber model](https://stgiga.github.io/gigaware/sgVRisoLite.png)](https://inkbunny.net/s/3772618)
 -->
+
+My PC is currently on the fritz. Expect delays.
