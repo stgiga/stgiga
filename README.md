@@ -38,9 +38,11 @@ I'm stgiga, and I've been involved in technology for many years.
   Visitor count:<br>
 </p>
 
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+
 ![](https://komarev.com/ghpvc/?username=stgiga)
 
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+
 
 # My GitHub contributions as a Game of Life
 
