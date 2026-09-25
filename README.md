@@ -38,6 +38,7 @@ I'm stgiga, and I've been involved in technology for many years.
 <p align="left"> 
   Visitor count:<br>
 </p>
+
 ![](https://komarev.com/ghpvc/?username=stgiga)
 
 
