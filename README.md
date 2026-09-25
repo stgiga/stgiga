@@ -34,12 +34,10 @@ I'm stgiga, and I've been involved in technology for many years.
   ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 <!--![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)-->
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 <p align="left"> 
   Visitor count:<br>
 </p>
-
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
-
 ![](https://komarev.com/ghpvc/?username=stgiga)
 
 
