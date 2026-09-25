@@ -40,6 +40,8 @@ I'm stgiga, and I've been involved in technology for many years.
 
 ![](https://komarev.com/ghpvc/?username=stgiga)
 
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+
 # My GitHub contributions as a Game of Life
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/stgiga.gif?z=6)](https://github4life.herokuapp.com/stgiga)
